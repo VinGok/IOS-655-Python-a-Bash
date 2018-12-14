@@ -1,15 +1,15 @@
-Movie Name 	 Year 	 Genre
-The Godfather 	 1972 	 Crime, Drama
-Inception 	 2010 	 SciFi,Thriller
-Interstellar 	 2014 	 sciFi, Drama
-Forrest Gump 	 1994 	 comedy,drama
-Gladiator 	 2000 	 Action
-Pulp Fiction 	 1994 	 drama, Crime
-Casablanca 	 1942 	 drama,romance
-Titanic 	 1997 	 drama, romance
-Fight Club 	 1999 	 action
-Memento 	 2000 	 drama, crime
-The Prestige 	 2006 	 scifi, thriller
-Batman Begins 	 2005 	 fantasy, drama
-Philadelphia 	 1993 	 drama
-The Terminal 	 2004 	 comedy, drama
+Movie Name	Year 	Genre
+The Godfather	1972	Crime, Drama
+Inception	2010	SciFi,Thriller
+Interstellar	2014	sciFi, Drama
+Forrest Gump	1994	comedy,drama
+Gladiator	2000	Action
+Pulp Fiction	1994	drama, Crime
+Casablanca	1942	drama,romance
+Titanic	1997	drama, romance
+Fight Club	1999	action
+Memento	2000	drama, crime
+The Prestige	2006	scifi, thriller
+Batman Begins	2005	fantasy, drama
+Philadelphia	1993	drama
+The Terminal	2004	comedy, drama
