@@ -6,9 +6,7 @@ Forrest Gump	1994	comedy,drama
 Gladiator	2000	Action
 Pulp Fiction	1994	drama, Crime
 Casablanca	1942	drama,romance
-Titanic	1997	drama, romance
 Fight Club	1999	action
-Memento	2000	drama, crime
 The Prestige	2006	scifi, thriller
 Batman Begins	2005	fantasy, drama
 Philadelphia	1993	drama
